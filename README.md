@@ -1,5 +1,5 @@
 
-## Olá! Eu sou o Rennan Alves 🤓✋
+## Olá! Eu me chamo Rennan Alves 🤓✋
 
 Minhas resdes sociais 👇 
 
