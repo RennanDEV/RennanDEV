@@ -25,7 +25,7 @@ Tecnologias que eu uso no meu dia a dia 👇
 
 🔹 Técnico em Análise e Desenvolvimento de Sistemas 👨‍🎓
 
-🔹 Dev / Front-End: HTML5, CSS3, JavaScript, React 👨🏻‍💻
+🔹 Dev Front-End 👨🏻‍💻
 
 🔹 Web Designer: Landing Pages com Elementor 🚀
 
