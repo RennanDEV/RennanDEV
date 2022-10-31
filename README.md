@@ -24,4 +24,5 @@ Tecnologias que eu uso no meu dia a dia 👇
 </div><br/>
 
 🔹 Técnico em Análise e Desenvolvimento de Sistemas 👨‍🎓
+
 🔹 Amante por tecnologia e programação 👨🏻‍💻
